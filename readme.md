@@ -8,7 +8,8 @@ This project is a ticketing system with microservices. The project is developed 
 - Ticket Service
 - Order Service
 - Expiration Service
-  The project has a common library for common functions, which is used by all microservices. And also, the project has a NATS Streaming Server for event bus communication between microservices. The project is developed with TDD. The project has unit and integration tests for each microservice.
+
+The project has a common library for common functions, which is used by all microservices. And also, the project has a NATS Streaming Server for event bus communication between microservices. The project is developed with TDD. The project has unit and integration tests for each microservice.
 
 ## Installation
 
